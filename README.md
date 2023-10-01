@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hi! I'm Xue, a Computer Science & Design student at Penn. I love cats and soup.
+
 <!--
 **xuelikesnow/xuelikesnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
